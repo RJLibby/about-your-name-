@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c60a1d90-2756-45cc-b47b-70136f287bf4" name="about-rusty" url="https://ddc-web-student.cnm.edu/~rmarasigan/about-rusty">
+        <fileTransfer rootFolder="/home/rmarasigan/public_html/about-rusty" accessType="SFTP" host="ddc-web-student.cnm.edu" port="22" sshConfigId="40c05b4b-3649-4657-9115-68620ac6e70d" sshConfig="rmarasigan@ddc-web-student.cnm.edu:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
